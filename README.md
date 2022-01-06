@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **cs845418@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EONm_fRDkdcaZhYtzqtrxGM2aoPDqhsK/view?usp=sharing](https://drive.google.com/file/d/1A9_eBELLourw8U6U8Gsi23sir3w1rwtY/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1EONm_fRDkdcaZhYtzqtrxGM2aoPDqhsK/view?usp=sharing](https://drive.google.com/file/d/1EONm_fRDkdcaZhYtzqtrxGM2aoPDqhsK/view?usp=sharing)
 
 - ⚡ Fun fact **I love reading books and making memes**
 
