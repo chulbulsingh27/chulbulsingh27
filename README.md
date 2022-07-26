@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Chulbul Singh! 🙋‍♂️</h1>
-<h3 align="center">I am an Electronics and Instrumentation undergraduate student at National Institute of Technology Agartala pursuing a Bachelor of Technology in my Third Year.</h3>
+<h3 align="center">I am an Electronics and Instrumentation undergraduate student at National Institute of Technology Agartala pursuing a Bachelor of Technology in my Final Year.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chulbulsingh27&label=Profile%20views&color=0e75b6&style=flat" alt="chulbulsingh27" /> </p>
 
