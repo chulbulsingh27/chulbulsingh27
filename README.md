@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chulbulsingh27&label=Profile%20views&color=0e75b6&style=flat" alt="chulbulsingh27" /> </p>
 
-- 🌱 I’m currently learning more about **Algorithms and Web Developement.
+- 🌱 I’m currently learning more about **Algorithms and Web Developement.**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
